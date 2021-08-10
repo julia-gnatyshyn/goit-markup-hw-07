@@ -22,12 +22,13 @@
   margin-top: 20px;
 }
 
-.address__item:not(:last-child) {
-  margin-bottom: 9px;
-}
 
 .direction {
   color: var(--white-color);
+}
+
+.address__item:not(:last-child) {
+  margin-bottom: 9px;
 }
 
 .address__item:not(:first-child) {
